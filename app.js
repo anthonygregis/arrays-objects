@@ -52,3 +52,14 @@ for (var i = 0; i < teams.length; i++) {
     var eachTeam = teams[i];
     console.log(eachTeam);
 }
+
+//Make an array
+//Use a foor loop to iterate through your array
+//print each element in your array
+
+var codingLanguages = ["Javascript", "Java", "Python", "CSS", "HTML"];
+
+for (let i = 0; i < codingLanguages.length; i++) {
+    eachLanguage = codingLanguages[i];
+    console.log(eachLanguage);
+}
