@@ -26,3 +26,20 @@ while (myOtherNumber < numberTwo) {
     console.log(myOtherNumber);
     myOtherNumber++;
 }
+
+
+var crazyNumber = 10;
+var myNumber = 3;
+
+while (crazyNumber > myNumber) {
+    console.log(crazyNumber);
+    crazyNumber -= 1;
+}
+
+var romeFavorite = 5;
+var myFavorite = 3;
+
+while (myFavorite <= romeFavorite) {
+    console.log(myFavorite)
+    myFavorite++
+}
