@@ -63,3 +63,19 @@ for (let i = 0; i < codingLanguages.length; i++) {
     eachLanguage = codingLanguages[i];
     console.log(eachLanguage);
 }
+
+let array = [1,2,3,4,5,6,7,8,9,0];
+for (let i = 0; i < array.length; i++) {
+  newArr = array[i];
+  console.log(newArr);
+}
+
+const myReallyCoolTweet = {
+    username: "agregis",
+    likes: 1200,
+    body: "Hello World!",
+    retweets: 100,
+    comments: ["Wow", "Cool", "Nice Job"]
+}
+
+console.log(myReallyCoolTweet)
