@@ -79,3 +79,14 @@ const myReallyCoolTweet = {
 }
 
 console.log(myReallyCoolTweet)
+
+const fourthOfJulyPost = {
+    username: '@ga'
+};
+
+fourthOfJulyPost.picture = 'https://instagram.com/.....';
+fourthOfJulyPost['likes'] = 15;
+fourthOfJulyPost.comments = ['ok...'];
+fourthOfJulyPost.caption = 'Writing code on the 4th';
+
+console.log(fourthOfJulyPost);
