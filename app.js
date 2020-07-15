@@ -43,3 +43,12 @@ while (myFavorite <= romeFavorite) {
     console.log(myFavorite)
     myFavorite++
 }
+
+for (var i = 0; i < 10; i++) {
+    console.log(i);
+}
+
+for (var i = 0; i < teams.length; i++) {
+    var eachTeam = teams[i];
+    console.log(eachTeam);
+}
